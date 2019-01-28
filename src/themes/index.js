@@ -24,3 +24,5 @@ export { default as big } from './big'
 // https://fonts.google.com/specimen/Creepster
 // https://fonts.google.com/specimen/Pirata+One
 // https://fonts.google.com/specimen/Merriweather
+
+export { default as solarized } from './solarized'
